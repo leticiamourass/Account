@@ -17,7 +17,7 @@ Este repositório contém a implementação de um sistema simples de gerenciamen
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/bank-account-management.git
+   git clone https://github.com/leticiamourass/bank-account-management
 
 ## Exemplo de Execução
 
