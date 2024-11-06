@@ -1,6 +1,6 @@
 # Bank Account Management
 
-Este repositório contém a implementação de um sistema simples de gerenciamento de contas bancárias utilizando a linguagem de programação Java. Através da programação orientada a objetos (POO), o sistema modela operações bancárias como crédito, débito e transferências entre contas.
+Este repositório contém a implementação de um sistema simples de gerenciamento de contas bancárias utilizando Java. Através da programação orientada a objetos (POO), o sistema modela operações bancárias como crédito, débito e transferências entre contas.
 
 ## Funcionalidades
 
