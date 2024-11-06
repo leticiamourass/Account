@@ -13,20 +13,6 @@ Este repositório contém a implementação de um sistema simples de gerenciamen
 - **Classe `Account`**: Representa uma conta bancária. Contém métodos para realizar operações como crédito, débito e transferências.
 - **Classe `TestMain`**: Classe principal para testar a funcionalidade do sistema. Exibe exemplos de como as operações funcionam.
 
-## Como Usar
-
-1. **Clone o Repositório**
-
-   ```bash
-   git clone https://github.com/leticiamourass/bank-account-management
-
-2. **Compile os Arquivos Java**
-
-Navegue até o diretório do projeto e compile os arquivos .java:
-
-cd REPOSITORIO
-javac Rectangle.java TestMain.java
-
 ## Exemplo de Execução
 
 
