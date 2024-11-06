@@ -15,7 +15,6 @@ Este repositório contém a implementação de um sistema simples de gerenciamen
 
 ## Exemplo de Execução
 
-
 A seguir, um exemplo de saída gerado pelo sistema:
 
 Account[id=A101,name=Tan Ah Teck,balance=88]
