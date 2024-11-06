@@ -13,9 +13,8 @@ Este repositório contém a implementação de um sistema simples de gerenciamen
 - **Classe `Account`**: Representa uma conta bancária. Contém métodos para realizar operações como crédito, débito e transferências.
 - **Classe `TestMain`**: Classe principal para testar a funcionalidade do sistema. Exibe exemplos de como as operações funcionam.
 
-## Exemplo de Execução
-
-A seguir, um exemplo de saída gerado pelo sistema:
+## Exemplo de Execução 
+- A seguir, um exemplo de saída gerado pelo sistema:
 
 Account[id=A101,name=Tan Ah Teck,balance=88]
 
